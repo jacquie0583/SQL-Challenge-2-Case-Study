@@ -1,0 +1,2 @@
+# SQL-Challenge-2-Case-Study
+Data collection was critical for the business’ growth.  An entity relationship diagram of the database design was created.  Cleaning of the data and applying calculations proved necessary to better direct his runners and optimize Pizza Runner’s operations.  All datasets exist within the pizza_runner database schema - included in this reference within the SQL scripts.  Exploration of the data provided answers the case study.
