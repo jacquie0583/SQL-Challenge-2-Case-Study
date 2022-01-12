@@ -2,16 +2,36 @@
 Data collection was critical for the business’ growth.  An entity relationship diagram of the database design was created.  Cleaning of the data and applying calculations proved necessary to better direct his runners and optimize Pizza Runner’s operations.  All datasets exist within the pizza_runner database schema - included in this reference within the SQL scripts.  Exploration of the data provided answers the case study.
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/jacquie0583/SQL-Challenge-2-Case-Study/blob/main/Picture1.png">
+  <img width="500" height="300" src="https://github.com/jacquie0583/SQL-Challenge-2-Case-Study/blob/main/Picture1.png">
 </p>
 
-#  Customer's Questions:
+#  A. Pizza Metrics  Customer's Questions:
 1.	How many pizzas were ordered?
 
+<p align="center">
+  <img width="500" height="300" src="https://github.com/jacquie0583/SQL-Challenge-2-Case-Study/blob/main/Picture2.png">
+</p>
 
 2.	How many unique customer orders were made?
+
+<p align="center">
+  <img width="500" height="300" src="https://github.com/jacquie0583/SQL-Challenge-2-Case-Study/blob/main/Picture3.png">
+</p>
+
 3.	How many successful orders were delivered by each runner?
+
+<p align="center">
+  <img width="300" height="200" src="https://github.com/jacquie0583/SQL-Challenge-2-Case-Study/blob/main/Picture4.png">
+</p>
+
+
 4.	How many of each type of pizza was delivered?
+
+<p align="center">
+  <img width="300" height="200" src="https://github.com/jacquie0583/SQL-Challenge-2-Case-Study/blob/main/Picture5.png">
+</p>
+
+
 5.	How many Vegetarian and Meatlovers were ordered by each customer?
 6.	What was the maximum number of pizzas delivered in a single order?
 7.	For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
